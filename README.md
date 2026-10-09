@@ -1,7 +1,7 @@
-﻿# Serendib Ray downloads
+# Serendib Ray downloads
 
 Serendib Ray by **Aplogon**: a simple V2Ray/Xray client with live ping, speed tests, a country picker and SNI override.
-This repository only holds the downloads; the app needs an activation key to work.
+This repository only holds the downloads; the apps need an activation key to work.
 
 **[Download the latest version](https://github.com/Dinith-k/serendib-ray-downloads/releases/latest)**
 
@@ -29,6 +29,19 @@ Not sure which? Apple menu > About This Mac: "Chip: Apple M..." is Apple silicon
 
 **Early build:** the macOS version has passed its automated tests on a Mac, but it is new. If macOS asks for your password when connecting, that is it changing the network proxy settings.
 
+## Android: Serendib Ray Pro
+
+[Serendib-Ray-Pro-1.0.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/Serendib-Ray-Pro-1.0.0.apk)
+
+The ad-free Android version, with the same look as Serendib Ray. It uses the same activation key as the Windows and Mac apps, shows your plan and time left, ranks servers fastest first with their latest speed test, and has an **Only servers on port 443** option (off by default). It installs next to the free Serendib Ray app and does not replace it. It is not on Google Play, so it is installed from this file.
+
+1. Open this page on your phone and download the `.apk`.
+2. Open the downloaded file. Android will ask you to allow installing apps from this source (your browser or Files app): allow it, then go back and tap **Install**.
+3. Open **Serendib Ray Pro** and enter your activation key.
+4. Tap the power button. Android asks once for permission to set up the VPN connection: choose **OK**.
+
+Android 7.0 or newer. Each key works on one phone; to move it to another phone, ask for it to be reset.
+
 ## Checking your download
 
-Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/SHA256SUMS.txt). On Windows: `certutil -hashfile Serendib-Ray-Setup-0.4.0.exe SHA256`. On macOS: `shasum -a 256 <file>`. The result should match the line for your file.
+Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/SHA256SUMS.txt). On Windows: `certutil -hashfile Serendib-Ray-Setup-0.4.0.exe SHA256`. On macOS: `shasum -a 256 <file>`. On Android, a file-manager app that shows checksums can do the same. The result should match the line for your file.
