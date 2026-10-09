@@ -15,16 +15,16 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 <br>
 
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-Setup-0.5.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/-Download%20for%20Windows-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNC42bDguNC0xLjJ2OC4xSDJ6TTExLjYgMy4yTDIyIDEuN3Y5LjhIMTEuNnpNMiAxMi41aDguNHY4LjFMMiAxOS40ek0xMS42IDEyLjVIMjJ2OS44bC0xMC40LTEuNXoiLz48L3N2Zz4%3D&amp;logoColor=white"></a>
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-0.5.0-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/-Download%20for%20macOS-1d1d1f?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-Pro-1.1.0.apk"><img alt="Download for Android" src="https://img.shields.io/badge/-Download%20for%20Android-2fb36d?style=for-the-badge&amp;logo=android&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-Setup-0.6.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/-Download%20for%20Windows-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNC42bDguNC0xLjJ2OC4xSDJ6TTExLjYgMy4yTDIyIDEuN3Y5LjhIMTEuNnpNMiAxMi41aDguNHY4LjFMMiAxOS40ek0xMS42IDEyLjVIMjJ2OS44bC0xMC40LTEuNXoiLz48L3N2Zz4%3D&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-0.6.0-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/-Download%20for%20macOS-1d1d1f?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-Pro-1.1.0.apk"><img alt="Download for Android" src="https://img.shields.io/badge/-Download%20for%20Android-2fb36d?style=for-the-badge&amp;logo=android&amp;logoColor=white"></a>
 
-<sub>Mac with an Intel chip? <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-0.5.0-mac-x64.dmg">Get the Intel version</a> &nbsp;·&nbsp; <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest">All files and checksums</a></sub>
+<sub>Mac with an Intel chip? <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-0.6.0-mac-x64.dmg">Get the Intel version</a> &nbsp;·&nbsp; <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest">All files and checksums</a></sub>
 
 </div>
 
 > [!NOTE]
-> These apps need an **activation key** (it looks like `SRK-XXXXX-XXXXX-XXXXX-XXXXX`). This page only holds the downloads. If you don't have a key, ask whoever gave you the app.
+> The apps unlock with an **activation key** (it looks like `SRK-XXXXX-XXXXX-XXXXX-XXXXX`). **Get a free 7-day key** by making an account at **[vpnlk.online/premium](https://vpnlk.online/premium)** (with Google or your email), and subscribe afterwards by chatting with us on Telegram **@ITzz_speed** or WhatsApp **0772829269**. The Windows and Mac apps also open as a **guest** without a key, with the free servers only.
 
 ---
 
@@ -50,6 +50,8 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 | Only servers on port 443 | ✅ | ✅ | ✅ |
 | Add your own configs | ✅ | ✅ | ✅ |
 | **Test all** from your own connection | ✅ | ✅ | ➖ |
+| Use it as a guest, without a key (free servers only) | ✅ | ✅ | ➖ |
+| 12 languages, including Sinhala and Tamil | ✅ | ✅ | ➖ |
 | Starts with Windows and connects by itself | ✅ | ➖ | ➖ |
 | No ads | ✅ | ✅ | ✅ |
 
@@ -59,10 +61,10 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 | | Platform | File | Size | Needs |
 |:-:|:--|:--|--:|:--|
-| 💻 | **Windows** | [Serendib-Ray-Setup-0.5.0.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-Setup-0.5.0.exe) | 122 MB | Windows 10 or 11, 64-bit |
-| 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.5.0-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-0.5.0-mac-arm64.dmg) | 142 MB | Mac with M1, M2, M3 or M4 |
-| 🍎 | **macOS, Intel** | [Serendib-Ray-0.5.0-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-0.5.0-mac-x64.dmg) | 151 MB | Mac with an Intel chip |
-| 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-1.1.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/Serendib-Ray-Pro-1.1.0.apk) | 67 MB | Android 7.0 or newer |
+| 💻 | **Windows** | [Serendib-Ray-Setup-0.6.0.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-Setup-0.6.0.exe) | 122 MB | Windows 10 or 11, 64-bit |
+| 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.6.0-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-0.6.0-mac-arm64.dmg) | 142 MB | Mac with M1, M2, M3 or M4 |
+| 🍎 | **macOS, Intel** | [Serendib-Ray-0.6.0-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-0.6.0-mac-x64.dmg) | 151 MB | Mac with an Intel chip |
+| 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-1.1.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/Serendib-Ray-Pro-1.1.0.apk) | 67 MB | Android 7.0 or newer |
 
 Not sure which Mac you have? Apple menu > **About This Mac**: "Chip: Apple M…" is Apple silicon, "Processor: Intel…" is Intel.
 
@@ -70,7 +72,7 @@ Not sure which Mac you have? Apple menu > **About This Mac**: "Chip: Apple M…"
 
 1. **Download** the file for your device from the table above.
 2. **Install** it (the steps for each device are just below).
-3. **Enter your activation key** when the app asks.
+3. **Enter your activation key** when the app asks (no key yet? [get a free 7-day one](https://vpnlk.online/premium), or on Windows and Mac choose **Continue as guest**).
 4. **Press connect.** Your traffic is now going through the fastest server.
 
 ---
@@ -143,7 +145,25 @@ The SNI is the server name your connection shows to the network. Some networks b
 
 <br>
 
-From whoever gave you the app. Keys are given out by the person who runs the service, so there is no sign-up form here.
+Make a free account at [vpnlk.online/premium](https://vpnlk.online/premium), with Google or your email and a phone number. The key for **7 days** is made for you straight away and shown on your account page, next to the time left and your usage. When the 7 days are over, message **@ITzz_speed** on Telegram or **0772829269** on WhatsApp to subscribe: we add the time to the same key, so you don't reinstall or type a new key. Each person gets one free trial.
+
+</details>
+
+<details>
+<summary><b>What can I do without a key (guest mode)?</b></summary>
+
+<br>
+
+On Windows and Mac, choose **Continue as guest** on the first screen. You get the free servers listed on [vpnlk.online](https://vpnlk.online), and the app shows "Guest · not logged in". Guests can't use the premium servers, change the SNI or use the port 443 switch. Enter a key any time to unlock everything.
+
+</details>
+
+<details>
+<summary><b>Which languages does the Windows and Mac app speak?</b></summary>
+
+<br>
+
+English, Sinhala (සිංහල), Tamil (தமிழ்), Russian, Hindi, Chinese, Arabic, Persian, Turkish, Spanish, French and Indonesian. It follows your computer's language, and **Settings > Language** changes it at once. The translations were written with machine help, so if a text reads oddly, please tell us.
 
 </details>
 
@@ -187,20 +207,20 @@ That is normal for any app that is not from the store. The file is signed by **A
 
 ## 🔒 Privacy
 
-About how you use the app, only **totals** are sent to vpnlk.online: the time you were connected, the amount of data, the number of connections and the country of the last server. The sites you visit, the addresses you open and what you do online are never sent. Read the full text at [vpnlk.online/privacy](https://vpnlk.online/privacy).
+About how you use the app, only **totals** are sent to vpnlk.online: the time you were connected, the amount of data, the number of connections and the country of the last server. The sites you visit, the addresses you open and what you do online are never sent. If you make an account on the website we also keep your name, email address and phone number to look after your key and subscription. Read the full text at [vpnlk.online/privacy](https://vpnlk.online/privacy).
 
 ## ✅ Check your download
 
-Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.5.0/SHA256SUMS.txt). The result should match the line for your file.
+Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.0/SHA256SUMS.txt). The result should match the line for your file.
 
 ```powershell
 # Windows
-certutil -hashfile Serendib-Ray-Setup-0.5.0.exe SHA256
+certutil -hashfile Serendib-Ray-Setup-0.6.0.exe SHA256
 ```
 
 ```bash
 # macOS
-shasum -a 256 Serendib-Ray-0.5.0-mac-arm64.dmg
+shasum -a 256 Serendib-Ray-0.6.0-mac-arm64.dmg
 ```
 
 <details>
