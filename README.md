@@ -4,9 +4,9 @@
 
 # Serendib Ray
 
-### A fast, simple V2Ray / Xray VPN client for Windows, macOS and Android
+### Fast, simple V2Ray / Xray VPN
 
-Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no ads &nbsp;·&nbsp; made in Sri Lanka 🇱🇰
+Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no ads &nbsp;·&nbsp; made in Sri Lanka
 
 <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/Dinith-k/serendib-ray-downloads?style=flat-square&amp;color=00c2a8&amp;label=latest"></a>
 <img alt="Platforms" src="https://img.shields.io/badge/platforms-Windows%20%C2%B7%20macOS%20%C2%B7%20Android-0b1220?style=flat-square">
@@ -40,7 +40,7 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 ### What each app has
 
-| | 🪟 Windows | 🍎 macOS | 🤖 Android (Pro) |
+| | 💻 Windows | 🍎 macOS | 🤖 Android (Pro) |
 |:--|:-:|:-:|:-:|
 | Activation key, one key per device | ✅ | ✅ | ✅ |
 | Tested server list, fastest first | ✅ | ✅ | ✅ |
@@ -58,7 +58,7 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 | | Platform | File | Size | Needs |
 |:-:|:--|:--|--:|:--|
-| 🪟 | **Windows** | [Serendib-Ray-Setup-0.4.0.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/Serendib-Ray-Setup-0.4.0.exe) | 122 MB | Windows 10 or 11, 64-bit |
+| 💻 | **Windows** | [Serendib-Ray-Setup-0.4.0.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/Serendib-Ray-Setup-0.4.0.exe) | 122 MB | Windows 10 or 11, 64-bit |
 | 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.4.0-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/Serendib-Ray-0.4.0-mac-arm64.dmg) | 142 MB | Mac with M1, M2, M3 or M4 |
 | 🍎 | **macOS, Intel** | [Serendib-Ray-0.4.0-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/Serendib-Ray-0.4.0-mac-x64.dmg) | 151 MB | Mac with an Intel chip |
 | 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-1.0.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.4.0/Serendib-Ray-Pro-1.0.0.apk) | 67 MB | Android 7.0 or newer |
@@ -77,7 +77,7 @@ Not sure which Mac you have? Apple menu > **About This Mac**: "Chip: Apple M…"
 ## 📖 Install guides
 
 <details>
-<summary><b>🪟 Windows</b></summary>
+<summary><b>💻 Windows</b></summary>
 
 <br>
 
