@@ -6,7 +6,7 @@
 
 ### Fast, simple V2Ray / Xray VPN
 
-Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no ads &nbsp;·&nbsp; made in Sri Lanka
+Servers re-checked every hour &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no ads &nbsp;·&nbsp; made in Sri Lanka
 
 <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/Dinith-k/serendib-ray-downloads?style=flat-square&amp;color=00c2a8&amp;label=latest"></a>
 <img alt="Platforms" src="https://img.shields.io/badge/platforms-Windows%20%C2%B7%20macOS%20%C2%B7%20Android-0b1220?style=flat-square">
@@ -15,11 +15,11 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 <br>
 
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-Setup-0.6.1.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/-Download%20for%20Windows-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNC42bDguNC0xLjJ2OC4xSDJ6TTExLjYgMy4yTDIyIDEuN3Y5LjhIMTEuNnpNMiAxMi41aDguNHY4LjFMMiAxOS40ek0xMS42IDEyLjVIMjJ2OS44bC0xMC40LTEuNXoiLz48L3N2Zz4%3D&amp;logoColor=white"></a>
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-0.6.1-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/-Download%20for%20macOS-1d1d1f?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-Pro-1.1.0.apk"><img alt="Download for Android" src="https://img.shields.io/badge/-Download%20for%20Android-2fb36d?style=for-the-badge&amp;logo=android&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-Setup-0.7.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/-Download%20for%20Windows-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNC42bDguNC0xLjJ2OC4xSDJ6TTExLjYgMy4yTDIyIDEuN3Y5LjhIMTEuNnpNMiAxMi41aDguNHY4LjFMMiAxOS40ek0xMS42IDEyLjVIMjJ2OS44bC0xMC40LTEuNXoiLz48L3N2Zz4%3D&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-0.7.0-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/-Download%20for%20macOS-1d1d1f?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-Pro-1.1.0.apk"><img alt="Download for Android" src="https://img.shields.io/badge/-Download%20for%20Android-2fb36d?style=for-the-badge&amp;logo=android&amp;logoColor=white"></a>
 
-<sub>Mac with an Intel chip? <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-0.6.1-mac-x64.dmg">Get the Intel version</a> &nbsp;·&nbsp; <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest">All files and checksums</a></sub>
+<sub>Mac with an Intel chip? <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-0.7.0-mac-x64.dmg">Get the Intel version</a> &nbsp;·&nbsp; <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest">All files and checksums</a></sub>
 
 </div>
 
@@ -32,7 +32,7 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 | 🚀 Fastest first | 🧪 Tested servers | 🔑 One key, three devices |
 |:--|:--|:--|
-| Servers are listed from fastest to slowest, with the latest speed test shown next to each one, so the best one is always on top. | Only servers that were tested and still work are listed, and they are re-tested every 6 hours. | One key works on your Windows PC, your Mac and your Android phone, one of each. The app shows your plan, the time left and a summary of your usage. |
+| Servers are listed from fastest to slowest, with the latest speed test shown next to each one, so the best one is always on top. | Only servers that were tested and still work are listed, and they are re-checked every hour. | One key works on your Windows PC, your Mac and your Android phone, one of each. The app shows your plan, the time left and a summary of your usage. |
 
 | 🎯 Port 443 mode | 🧭 Change the SNI | 🚫 No ads |
 |:--|:--|:--|
@@ -53,6 +53,7 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 | Use it as a guest, without a key (free servers only) | ✅ | ✅ | ➖ |
 | 12 languages, including Sinhala and Tamil | ✅ | ✅ | ➖ |
 | Starts with Windows and connects by itself | ✅ | ➖ | ➖ |
+| Updates itself | ✅ | ➖ | ➖ |
 | No ads | ✅ | ✅ | ✅ |
 
 ---
@@ -61,10 +62,10 @@ Servers re-tested every 6 hours &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no a
 
 | | Platform | File | Size | Needs |
 |:-:|:--|:--|--:|:--|
-| 💻 | **Windows** | [Serendib-Ray-Setup-0.6.1.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-Setup-0.6.1.exe) | 122 MB | Windows 10 or 11, 64-bit |
-| 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.6.1-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-0.6.1-mac-arm64.dmg) | 142 MB | Mac with M1, M2, M3 or M4 |
-| 🍎 | **macOS, Intel** | [Serendib-Ray-0.6.1-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-0.6.1-mac-x64.dmg) | 151 MB | Mac with an Intel chip |
-| 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-1.1.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/Serendib-Ray-Pro-1.1.0.apk) | 67 MB | Android 7.0 or newer |
+| 💻 | **Windows** | [Serendib-Ray-Setup-0.7.0.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-Setup-0.7.0.exe) | 122 MB | Windows 10 or 11, 64-bit |
+| 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.7.0-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-0.7.0-mac-arm64.dmg) | 143 MB | Mac with M1, M2, M3 or M4 |
+| 🍎 | **macOS, Intel** | [Serendib-Ray-0.7.0-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-0.7.0-mac-x64.dmg) | 151 MB | Mac with an Intel chip |
+| 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-1.1.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/Serendib-Ray-Pro-1.1.0.apk) | 67 MB | Android 7.0 or newer |
 
 Not sure which Mac you have? Apple menu > **About This Mac**: "Chip: Apple M…" is Apple silicon, "Processor: Intel…" is Intel.
 
@@ -84,12 +85,14 @@ Not sure which Mac you have? Apple menu > **About This Mac**: "Chip: Apple M…"
 
 <br>
 
-1. Run the downloaded file and follow the steps. It installs just for you, with no administrator rights needed.
+1. Run the downloaded file and follow the steps. It installs just for you. The app itself asks Windows for administrator permission each time you open it by hand (it needs that for the system proxy and Whole PC mode); when it starts at sign-in it does so without a prompt.
 2. If Windows says it protected your PC, choose **More info**, then **Run anyway**. The installer is not code-signed yet, so Windows does not know the publisher (**Aplogon**).
 3. On the last page, leave **Run on startup and connect automatically** ticked if you want it to start by itself when you sign in. You can turn it off any time in **Settings**.
 4. Enter your activation key.
 
 The close button asks whether to **minimize to the tray** or **quit**, and the tray icon can connect, disconnect and quit.
+
+**Updates:** from version 0.7.0 the installed app checks for new versions by itself and installs them when you close it, or when you press **Restart and update** (**Settings > App updates**).
 
 </details>
 
@@ -211,16 +214,16 @@ About how you use the app, only **totals** are sent to vpnlk.online: the time yo
 
 ## ✅ Check your download
 
-Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.6.1/SHA256SUMS.txt). The result should match the line for your file.
+Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.0/SHA256SUMS.txt). The result should match the line for your file.
 
 ```powershell
 # Windows
-certutil -hashfile Serendib-Ray-Setup-0.6.1.exe SHA256
+certutil -hashfile Serendib-Ray-Setup-0.7.0.exe SHA256
 ```
 
 ```bash
 # macOS
-shasum -a 256 Serendib-Ray-0.6.1-mac-arm64.dmg
+shasum -a 256 Serendib-Ray-0.7.0-mac-arm64.dmg
 ```
 
 <details>
@@ -243,3 +246,4 @@ With the Android SDK tools: `apksigner verify --print-certs Serendib-Ray-Pro-1.1
 <sub>Serendib Ray by <b>Aplogon</b> &nbsp;·&nbsp; <a href="https://vpnlk.online">vpnlk.online</a> &nbsp;·&nbsp; <a href="https://vpnlk.online/privacy">Privacy</a></sub>
 
 </div>
+
