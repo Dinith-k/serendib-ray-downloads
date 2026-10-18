@@ -15,11 +15,11 @@ Servers re-checked every hour &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no ads
 
 <br>
 
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-Setup-0.7.1.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/-Download%20for%20Windows-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNC42bDguNC0xLjJ2OC4xSDJ6TTExLjYgMy4yTDIyIDEuN3Y5LjhIMTEuNnpNMiAxMi41aDguNHY4LjFMMiAxOS40ek0xMS42IDEyLjVIMjJ2OS44bC0xMC40LTEuNXoiLz48L3N2Zz4%3D&amp;logoColor=white"></a>
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-0.7.1-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/-Download%20for%20macOS-1d1d1f?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
-<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-Pro-1.1.0.apk"><img alt="Download for Android" src="https://img.shields.io/badge/-Download%20for%20Android-2fb36d?style=for-the-badge&amp;logo=android&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-Setup-0.8.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/-Download%20for%20Windows-0078D4?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIgNC42bDguNC0xLjJ2OC4xSDJ6TTExLjYgMy4yTDIyIDEuN3Y5LjhIMTEuNnpNMiAxMi41aDguNHY4LjFMMiAxOS40ek0xMS42IDEyLjVIMjJ2OS44bC0xMC40LTEuNXoiLz48L3N2Zz4%3D&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-0.8.0-mac-arm64.dmg"><img alt="Download for macOS" src="https://img.shields.io/badge/-Download%20for%20macOS-1d1d1f?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
+<a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-Pro-2.0.0.apk"><img alt="Download for Android" src="https://img.shields.io/badge/-Download%20for%20Android-2fb36d?style=for-the-badge&amp;logo=android&amp;logoColor=white"></a>
 
-<sub>Mac with an Intel chip? <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-0.7.1-mac-x64.dmg">Get the Intel version</a> &nbsp;·&nbsp; <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest">All files and checksums</a></sub>
+<sub>Mac with an Intel chip? <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-0.8.0-mac-x64.dmg">Get the Intel version</a> &nbsp;·&nbsp; <a href="https://github.com/Dinith-k/serendib-ray-downloads/releases/latest">All files and checksums</a></sub>
 
 </div>
 
@@ -62,10 +62,10 @@ Servers re-checked every hour &nbsp;·&nbsp; fastest first &nbsp;·&nbsp; no ads
 
 | | Platform | File | Size | Needs |
 |:-:|:--|:--|--:|:--|
-| 💻 | **Windows** | [Serendib-Ray-Setup-0.7.1.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-Setup-0.7.1.exe) | 122 MB | Windows 10 or 11, 64-bit |
-| 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.7.1-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-0.7.1-mac-arm64.dmg) | 143 MB | Mac with M1, M2, M3 or M4 |
-| 🍎 | **macOS, Intel** | [Serendib-Ray-0.7.1-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-0.7.1-mac-x64.dmg) | 151 MB | Mac with an Intel chip |
-| 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-1.1.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/Serendib-Ray-Pro-1.1.0.apk) | 67 MB | Android 7.0 or newer |
+| 💻 | **Windows** | [Serendib-Ray-Setup-0.8.0.exe](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-Setup-0.8.0.exe) | 123 MB | Windows 10 or 11, 64-bit |
+| 🍎 | **macOS, Apple silicon** | [Serendib-Ray-0.8.0-mac-arm64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-0.8.0-mac-arm64.dmg) | 143 MB | Mac with M1, M2, M3 or M4 |
+| 🍎 | **macOS, Intel** | [Serendib-Ray-0.8.0-mac-x64.dmg](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-0.8.0-mac-x64.dmg) | 152 MB | Mac with an Intel chip |
+| 🤖 | **Android, Serendib Ray Pro** | [Serendib-Ray-Pro-2.0.0.apk](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/Serendib-Ray-Pro-2.0.0.apk) | 69 MB | Android 7.0 or newer |
 
 Not sure which Mac you have? Apple menu > **About This Mac**: "Chip: Apple M…" is Apple silicon, "Processor: Intel…" is Intel.
 
@@ -214,16 +214,16 @@ About how you use the app, only **totals** are sent to vpnlk.online: the time yo
 
 ## ✅ Check your download
 
-Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.7.1/SHA256SUMS.txt). The result should match the line for your file.
+Checksums are in [SHA256SUMS.txt](https://github.com/Dinith-k/serendib-ray-downloads/releases/download/v0.8.0/SHA256SUMS.txt). The result should match the line for your file.
 
 ```powershell
 # Windows
-certutil -hashfile Serendib-Ray-Setup-0.7.1.exe SHA256
+certutil -hashfile Serendib-Ray-Setup-0.8.0.exe SHA256
 ```
 
 ```bash
 # macOS
-shasum -a 256 Serendib-Ray-0.7.1-mac-arm64.dmg
+shasum -a 256 Serendib-Ray-0.8.0-mac-arm64.dmg
 ```
 
 <details>
@@ -231,7 +231,7 @@ shasum -a 256 Serendib-Ray-0.7.1-mac-arm64.dmg
 
 <br>
 
-With the Android SDK tools: `apksigner verify --print-certs Serendib-Ray-Pro-1.1.0.apk`. The signer is **CN=Aplogon** and its certificate SHA-256 is:
+With the Android SDK tools: `apksigner verify --print-certs Serendib-Ray-Pro-2.0.0.apk`. The signer is **CN=Aplogon** and its certificate SHA-256 is:
 
 ```
 195ffebc367325d9e3bb72d9629772c02ef24762c4c3ffa7363608e85ba65b36
@@ -246,5 +246,6 @@ With the Android SDK tools: `apksigner verify --print-certs Serendib-Ray-Pro-1.1
 <sub>Serendib Ray by <b>Aplogon</b> &nbsp;·&nbsp; <a href="https://vpnlk.online">vpnlk.online</a> &nbsp;·&nbsp; <a href="https://vpnlk.online/privacy">Privacy</a></sub>
 
 </div>
+
 
 
