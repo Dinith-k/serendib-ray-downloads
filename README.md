@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 💻 Windows and Mac &nbsp;<sup><code>0.8</code></sup>
+#### 💻 Windows and Mac &nbsp;<sup><code>0.8.1</code></sup>
 
 - 🎨 **A brand new look**, with the animated globe that flies to your server when you connect
 - 🔐 **Sign in or create an account** right in the app: Premium is free
@@ -48,11 +48,12 @@
 - ⚡ **Speed test** screen: download, upload, latency and jitter through the VPN
 - 🛡️ **Whole PC mode is much more stable**: it connects first time and stays connected
 - 🌗 Light and dark themes, and your live speed on the home screen
+- 🇸🇬 **New in 0.8.1:** Singapore shows up to 40 servers, and with "only port 443" on, its SNI servers stay listed on their own port
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 Android, Serendib Ray Pro &nbsp;<sup><code>2.0</code></sup>
+#### 🤖 Android, Serendib Ray Pro &nbsp;<sup><code>2.0.1</code></sup>
 
 - 🎨 **The new design** from the Google Play app, globe animation included
 - 🔐 **Sign in or create an account**: Premium is free
@@ -60,6 +61,7 @@
 - 🚫 **No ads**, never
 - 🧭 SNI change and port 443 servers for everyone
 - ⬆️ Installs over the older Pro app
+- 🇸🇬 **New in 2.0.1:** with "only port 443" on, Singapore's servers that can change the SNI stay listed on their own port
 
 </td>
 </tr>
@@ -101,11 +103,11 @@
 
 | 🚀 Fastest first | 🧪 Always tested | 🔓 Free Premium |
 |:--|:--|:--|
-| The fastest servers of each country (up to 6, and up to 20 in Singapore), sorted by speed, with the latest speed test next to each one. | Every listed server is checked again every hour, and the SNI and port 443 servers every 15 minutes. Dead ones are removed. | Every server, the SNI change and port 443 are free with an account. Nothing to buy and nothing runs out. |
+| The fastest servers of each country (up to 6, and up to 40 in Singapore), sorted by speed, with the latest speed test next to each one. | Every listed server is checked again every hour, and the SNI and port 443 servers every 15 minutes. Dead ones are removed. | Every server, the SNI change and port 443 are free with an account. Nothing to buy and nothing runs out. |
 
 | 🧭 Change the SNI | 🎯 Port 443 | 🧩 Apps through the VPN |
 |:--|:--|:--|
-| Pick a tested name or type any name you like. Some networks block one name and allow another. | One switch keeps only servers on port 443, which networks that block other ports usually still allow. | On Windows, choose the programs that use the VPN (or the ones that don't). The list is saved for next time. |
+| Pick a tested name or type any name you like. Some networks block one name and allow another. | One switch keeps only servers on port 443, which networks that block other ports usually still allow. Singapore's SNI servers stay listed on their own port, as Singapore has very few on 443. | On Windows, choose the programs that use the VPN (or the ones that don't). The list is saved for next time. |
 
 | 🖥️ Whole PC mode | 📱 One account, three devices | 🚫 No ads |
 |:--|:--|:--|
